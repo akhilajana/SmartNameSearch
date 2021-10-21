@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "25wo+lvfW6KMZWhcXetAVwOkK8EiBshqsZKGgpnPjRJYEcyvqWK8XasqDFAFI43lgqEyL4UlEk0Qx1dmx6paxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Akhila Jana\\projects\\personal-projects\\SmartNameSearch_AWSLambda\\SmartNameSearch\\SmartNameSearch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Akhila Jana\\.nuget\\packages\\amazon.lambda.core\\2.0.0\\amazon.lambda.core.2.0.0.nupkg.sha512",
+    "C:\\Users\\Akhila Jana\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.1.0\\amazon.lambda.serialization.systemtextjson.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

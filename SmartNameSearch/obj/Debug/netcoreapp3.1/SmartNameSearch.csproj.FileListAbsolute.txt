@@ -1,0 +1,15 @@
+C:\Users\Akhila Jana\projects\personal-projects\SmartNameSearch_AWSLambda\SmartNameSearch\bin\Debug\netcoreapp3.1\SmartNameSearch.deps.json
+C:\Users\Akhila Jana\projects\personal-projects\SmartNameSearch_AWSLambda\SmartNameSearch\bin\Debug\netcoreapp3.1\SmartNameSearch.runtimeconfig.json
+C:\Users\Akhila Jana\projects\personal-projects\SmartNameSearch_AWSLambda\SmartNameSearch\bin\Debug\netcoreapp3.1\SmartNameSearch.runtimeconfig.dev.json
+C:\Users\Akhila Jana\projects\personal-projects\SmartNameSearch_AWSLambda\SmartNameSearch\bin\Debug\netcoreapp3.1\SmartNameSearch.dll
+C:\Users\Akhila Jana\projects\personal-projects\SmartNameSearch_AWSLambda\SmartNameSearch\bin\Debug\netcoreapp3.1\SmartNameSearch.pdb
+C:\Users\Akhila Jana\projects\personal-projects\SmartNameSearch_AWSLambda\SmartNameSearch\bin\Debug\netcoreapp3.1\Amazon.Lambda.Core.dll
+C:\Users\Akhila Jana\projects\personal-projects\SmartNameSearch_AWSLambda\SmartNameSearch\bin\Debug\netcoreapp3.1\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Akhila Jana\projects\personal-projects\SmartNameSearch_AWSLambda\SmartNameSearch\obj\Debug\netcoreapp3.1\SmartNameSearch.csprojAssemblyReference.cache
+C:\Users\Akhila Jana\projects\personal-projects\SmartNameSearch_AWSLambda\SmartNameSearch\obj\Debug\netcoreapp3.1\SmartNameSearch.AssemblyInfoInputs.cache
+C:\Users\Akhila Jana\projects\personal-projects\SmartNameSearch_AWSLambda\SmartNameSearch\obj\Debug\netcoreapp3.1\SmartNameSearch.AssemblyInfo.cs
+C:\Users\Akhila Jana\projects\personal-projects\SmartNameSearch_AWSLambda\SmartNameSearch\obj\Debug\netcoreapp3.1\SmartNameSearch.csproj.CoreCompileInputs.cache
+C:\Users\Akhila Jana\projects\personal-projects\SmartNameSearch_AWSLambda\SmartNameSearch\obj\Debug\netcoreapp3.1\SmartNameSearch.csproj.CopyComplete
+C:\Users\Akhila Jana\projects\personal-projects\SmartNameSearch_AWSLambda\SmartNameSearch\obj\Debug\netcoreapp3.1\SmartNameSearch.dll
+C:\Users\Akhila Jana\projects\personal-projects\SmartNameSearch_AWSLambda\SmartNameSearch\obj\Debug\netcoreapp3.1\SmartNameSearch.pdb
+C:\Users\Akhila Jana\projects\personal-projects\SmartNameSearch_AWSLambda\SmartNameSearch\obj\Debug\netcoreapp3.1\SmartNameSearch.genruntimeconfig.cache
